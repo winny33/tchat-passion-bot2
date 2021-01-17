@@ -1,0 +1,22 @@
+{
+  "name": "tchat-passion-bot2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amineouhani/tchat-passion-bot2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amineouhani/tchat-passion-bot2/issues"
+  },
+  "homepage": "https://github.com/amineouhani/tchat-passion-bot2#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
